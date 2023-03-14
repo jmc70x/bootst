@@ -1,0 +1,136 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <!-- Required meta tags -->
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <!-- Bootstrap CSS -->
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+
+    <title>Ürünlerimiz</title>
+  </head>
+  <body style="background-color: #E9ECEF;">
+    <div class="container-fluid">
+        <div class="row bg-dark">
+            <div class="col-sm-12 bg-dark text-decoration-none" style="font-size: 20px;">
+                <text class="font-weight-bold text-danger ">Müzik Dükkanım  </text>
+                <div id="menulink" class="btn-group " role="group" aria-label="Basic example" >
+                    <button type="button" class="btn btn-dark"><a href="as1.html"  style="padding: 10px;">Ana Sayfa</a></button>
+                    <button type="button" class="btn btn-dark"><a href="urunlerimiz.html" style="padding: 10px;">Ürünlerimiz</a></button>
+                    <button type="button" class="btn btn-dark"><a href="hakkimizda.html" style="padding: 10px;">Hakkımızda</a></button>
+                </div>
+            </div>
+               
+        </div>
+    </div>
+    <h1 class="text-info" style="text-align: center; margin-top: 40px;">Ürünlerimiz</h1>
+    <body>
+        
+
+    <div class="row">
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <div class="img-fluid">
+                <img class="card-img-top" src="https://ae01.alicdn.com/kf/S0a41cc81f1e949839693e3fa5ad500a2X/Elektrik-akustik-gitar-6-dizeleri-yuvarlak-geri-Ovation-modeli-kahverengi-41-in-akustik-gitar-kesit-tasar.jpg_Q90.jpg_.webp" alt="gitar">
+                <div class="card-body">
+                  <h5 class="card-title">Gitar</h5>
+                  <p class="card-text">4590 TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+                </div>
+              </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://st2.myideasoft.com/idea/dl/53/myassets/products/606/ltar529sti-1.jpg?revision=1665056198" alt="Davul">
+                <div class="card-body">
+                  <h5 class="card-title">Davul</h5>
+                  <p class="card-text">13870 TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://n11scdn.akamaized.net/a1/602_857/09/49/78/35/IMG-418007658063722540.jpg" alt="Elektro Gitar">
+                <div class="card-body">
+                  <h5 class="card-title">Elektro Gitar</h5>
+                  <p class="card-text">1190 TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://www.muzikaletleri.com.tr/image/data/urun%20resimleri/gitar/XA35BK/gitar1.jpg" alt="Gitar">
+                <div class="card-body">
+                  <h5 class="card-title">Gitar</h5>
+                  <p class="card-text">12500TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+    </div>
+
+        <br>
+
+    <div class="row">
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://cdn.dsmcdn.com/ty328/product/media/images/20220210/8/47926563/17129178/1/1_org_zoom.jpg" alt="Keman">
+                <div class="card-body">
+                  <h5 class="card-title">Keman</h5>
+                  <p class="card-text">13000 TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://upload.wikimedia.org/wikipedia/commons/d/df/2006-07-06_drum_set.jpg" alt="Davul">
+                <div class="card-body">
+                  <h5 class="card-title">Davul</h5>
+                  <p class="card-text">18880 TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://cangozmuzik.com.tr/uploads/p/p/Nux-WK-400-Dijital-Piyano-Tabureli_1.jpg" alt="Piyano">
+                <div class="card-body">
+                  <h5 class="card-title">Piyano</h5>
+                  <p class="card-text">5660TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+        <div class="col-sm-3">
+            <div class="card" style="width: 18rem;">
+                <img class="card-img-top" src="https://cdn.dsmcdn.com/ty381/product/media/images/20220404/12/82659101/63321089/1/1_org_zoom.jpg" alt="Piyano">
+                <div class="card-body">
+                  <h5 class="card-title">Piyano</h5>
+                  <p class="card-text">12200TL</p>
+                  <a href="#" class="btn btn-primary">Satın AL</a>
+                </div>
+              </div>
+        </div>
+    </div>
+    </div>
+   
+    <br>
+
+    <!-- Optional JavaScript -->
+    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
+    <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+  </body>
+</html>
